@@ -1,2 +1,3 @@
 # CreditDefaultRatePrediction
 Predict users' default rates in order to assess their credit scores based on the collected data.
+The project uses data from the China Merchants Bank application, which has a monthly active user base of over 100 million. This data contains a broad spectrum of user information, including demographic details, financial transactions, loans, and non-financial interactions such as page visits, visit duration, and the specific pages visited. The primary objective of this project is to predict users' default rates in order to assess their credit scores based on the collected data.
