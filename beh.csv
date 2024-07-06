@@ -1,0 +1,5 @@
+序号,字段,名称,码值
+1,id,User Identification Number,
+2,flag,Label,"0 - negative case, 1 - positive case"
+3,page_no,Page Number,A 3-digit code on a page in the CMB app.
+4,page_tm,Visit Time,

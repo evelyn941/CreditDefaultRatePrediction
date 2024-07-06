@@ -1,0 +1,10 @@
+No,Feature,Name,Value
+1,id,User Identification Number,
+2,flag,Label,"0 - negative case, 1 - positive case"
+3,Dat_Flg1_Cd,Cash Flow Direction,"Cash Flow Direction:
+B: Outflow；C: Inflow"
+4,Dat_Flg3_Cd,Payment Method,
+5,Trx_Cod1_Cd,Transaction Primary Classification Code,
+6,Trx_Cod2_Cd,Transaction Secondary Classification Code,
+7,trx_tm,Transaction Time,
+8,cny_trx_amt,Transaction Amount,
